@@ -3,3 +3,4 @@ sudo apt-get update && sudo apt-get install wine1.7 winetricks
 sudo add-apt-repository ppa:noobslab/apps
 sudo apt-get update
 sudo apt-get install xdman
+./ngrok authtoken 1jFI4clN3Ta7zdlJWSqjbAgLQnr_7b6wwVXVdwNFBAVepzqTX
